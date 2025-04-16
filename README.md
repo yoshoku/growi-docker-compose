@@ -1,3 +1,5 @@
+※ growiをローカルで自己署名証明書を使ってHTTPS化したものです
+
 growi-docker-compose
 =====================
 
@@ -126,8 +128,8 @@ Documentation
 --------------
 
 * [GROWI Docs](https://docs.growi.org/)
-  
-  
+
+
 Issues
 ------
 
